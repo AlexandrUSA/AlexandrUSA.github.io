@@ -1,0 +1,10 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Alexandr Grinevich -- Full Stack Web Developer -- AlexandrUSA@yandex.ru
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, Service-worker
