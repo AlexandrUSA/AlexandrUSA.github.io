@@ -8,6 +8,8 @@ self.addEventListener('install', function(event) {
           '/',
           '/index.html',
           '/assets/favicon.ico',
+          '/favicon.ico',
+          '/manifest.json',
           '/assets/1.app.css',
           '/assets/app.css',
           '/assets/img/about-pic.webp',
@@ -34,6 +36,7 @@ self.addEventListener('install', function(event) {
           '/assets/icons/msapplication-icon-144x144.png',
           '/assets/icons/mstile-150x150.png',
           '/js/app.js',
+          '/js/1.chunk.js',
         ]);
       } catch (e) {
         console.error(e);
